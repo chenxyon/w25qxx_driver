@@ -1,0 +1,10 @@
+{
+    "name": "w25qxx_driver",
+    "version": "1.0.0",
+    "description": "W25Qxx SPI NOR Flash 完整驱动：JEDEC 自动识别（W25Q16~W25Q1024）、3/4 字节地址、读写擦除、写保护清除，可选挂接 FatFs 磁盘 I/O 与 USB MSC（W25qxx class，配置结构体注入）",
+    "keywords": "w25q, spi, flash, nor, fatfs, msc, tinyusb",
+    "author": "chenxyon",
+    "license": "MIT",
+    "frameworks": "espidf",
+    "platforms": ["espressif32"]
+}
